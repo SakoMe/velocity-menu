@@ -404,7 +404,7 @@ Animation keyframes
     padding-bottom: 3px;
     border-bottom: 1px solid #222;
 }
-@media (max-width: 640px) {
+@media (max-width: 800px) {
     nav ul {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
